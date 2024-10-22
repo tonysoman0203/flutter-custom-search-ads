@@ -27,7 +27,7 @@ apply plugin: 'kotlin-android'
 android {
     compileSdkVersion 31
 
-    namespace "flutter-custom-search-ads"
+    namespace "com.example.flutter_custom_search_ads"
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_17
